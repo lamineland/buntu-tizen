@@ -42,7 +42,7 @@ La boutique mobile Galaxy Store demande pour certains contenus les accords des t
 
 1. Créer un compte Seller Office et **lire les conditions d'utilisation** à l'inscription.
 2. Obtenir le « Samsung Apps Certification Guide » et sa section 3.
-3. Écrire à Samsung (1:1 Q&A, ou Content Manager s'il y en a un) avec ces questions :
+3. Écrire à Samsung (1:1 Q&A, ou Content Manager s'il y en a un). Les messages prêts à envoyer sont dans [`docs/SAMSUNG_QUESTIONS.md`](../docs/SAMSUNG_QUESTIONS.md). Ils couvrent au moins ces questions :
    - Un lecteur sans contenu, dont les sources sont saisies par l'utilisateur, est-il accepté ?
    - Dans quels pays, et sous quel statut de vendeur ?
    - Une personne physique peut-elle devenir Partner Seller, ou faut-il une société ?
