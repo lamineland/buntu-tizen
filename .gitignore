@@ -1,0 +1,33 @@
+# Dépendances et builds
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Paquets Tizen
+*.wgt
+*.tpk
+.buildResult/
+.sign/
+.manifest.tmp
+
+# Certificats et secrets : ne jamais les versionner (voir PRD-50)
+*.p12
+*.pfx
+*.pem
+*.crt
+author.xml
+distributor.xml
+profiles.xml
+.env
+.env.*
+!.env.example
+
+# Fichiers d'éditeur et de système
+.DS_Store
+.vscode/
+.idea/
+.project
+.tproject
+.settings/
