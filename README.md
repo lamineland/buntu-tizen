@@ -1,6 +1,6 @@
 # Buntu pour Samsung TV (Tizen)
 
-Spécifications de la version Samsung Smart TV de [Buntu](../buntu), le lecteur de médias natif pour les plateformes Apple.
+Spécifications de la version Samsung Smart TV de [Buntu](https://github.com/lamineland/buntu), le lecteur de médias natif pour les plateformes Apple.
 
 Buntu est un lecteur : il ne fournit aucun contenu, il lit les sources que l'utilisateur ajoute. Cette règle vaut aussi sur la TV.
 
